@@ -2,7 +2,7 @@
 
 ## Olá, pessoal 👋
 
-- 💬  &nbsp; **Sobre mim**: Sou apaixonado por resolver problemas usando a programação, sempre em constante aprendizado. Sou atraído a desafios e curto tecnologias <br/>
+- 💬  &nbsp; **Sobre mim**: Sou  apaixonado por resolver problemas usando a programação, sempre em constante aprendizado. Sou atraído a desafios e curto tecnologias <br/>
 - 🔭 Nesse momento, estou trabalhando em alguns projetos pessoais. Estudando Análise e Desenvolvimento de Sistemas. <br/>
 - 🌱 Atualmente, meu foco está em JavaScript, com as tecnologias React, ReactNative etc. <br/>
 - :purple_heart: &nbsp;Buscando colaborar com projetos em Front-end, além de projetos Back-end e Mobile. <br/>
