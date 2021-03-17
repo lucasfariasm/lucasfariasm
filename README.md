@@ -4,7 +4,6 @@
 
 - 💬  &nbsp; **Sobre mim**: Sou  apaixonado por resolver problemas usando a programação, sempre em constante aprendizado. Sou atraído a desafios e curto tecnologias <br/>
 - 🔭 Nesse momento, estou trabalhando em alguns projetos pessoais. Estudando Análise e Desenvolvimento de Sistemas. <br/>
-- 🌱 Atualmente, meu foco está nas tecnologias ReactJS, ReactNative, NodeJS. <br/>
 ### Tenho conhecimentos em: 
 - 🌱 Front-end -> HTML, CSS (SAAS), JavaScript (ES6) / TypeScript, ReactJS, Vue.js
 - 🌱 Back-end -> NodeJS
