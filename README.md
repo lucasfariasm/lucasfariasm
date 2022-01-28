@@ -7,7 +7,7 @@
 ### Tenho conhecimentos em: 
 - 🌱 Front-end -> HTML, CSS (SAAS), JavaScript (ES6) / TypeScript, ReactJS, Vue.js
 - 🌱 Back-end -> NodeJS
-- 🌱 Mobile -> ReactNative
+- 🌱 Mobile -> Flutter e ReactNative
 - 🌱 GIT/Github, API's REST, Testes
 - :purple_heart: &nbsp;Buscando colaborar com projetos em Front-end, além de projetos Back-end e Mobile. <br/>
 - ⚡ E se quiser trocar alguma ideia comigo, ficarei feliz em abrir este canal de diálogo. Contate-me via e-mail ou pelo linkedin, prometo que sempre respondo! 😄 <br/>
