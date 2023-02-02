@@ -1,4 +1,4 @@
-Hi 👋 My name is Lucas
+Oi 👋 Meu nome é Lucas
 ======================
 
 Desenvolvedor Mobile Flutter
